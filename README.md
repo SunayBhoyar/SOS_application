@@ -13,4 +13,9 @@ Our Primary Goal is -
 Our Secondary Goal is - 
    A network system which will generate a signal to people nearby from where the 
    emergency has been declared so that the surrounding people will be aware of the potential treat
-  
+ 
+ 
+ 
+ ## Updates 
+  !! Our latest commits ar being done in the master branch and the the product we think final will be tranfwred to main branch soon .. 
+ 
