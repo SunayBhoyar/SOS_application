@@ -16,8 +16,7 @@ Our Secondary Goal is -
  
  
  
- ## Updates 
-  !! Our latest commits ar being done in the master branch and the the product we think final will be tranfwred to main branch soon .. 
-  heres a link for the temprerory commits we are making  - 
-  https://github.com/SunayBhoyar/SOS_application/tree/master
+##Updates - 
+we have uploaded our second update 
+
  
