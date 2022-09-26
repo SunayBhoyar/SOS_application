@@ -19,5 +19,6 @@ Our Secondary Goal is -<br/>
 ## Updates - 
 We have uploaded our second update - 5 : 15 PM (26 Sept 2022)<br/>
 We have uploaded our login page version 1 - 6 : 21 PM (26 Sept 2022)<br/>
+We have uploaded our main mage version 1 <br/> login page has been embedded in the main page itself- 10 : 15 PM (26 Sept 2022)<br/>
 
  
