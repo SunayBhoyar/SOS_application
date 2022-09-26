@@ -17,6 +17,7 @@ Our Secondary Goal is -
  
  
 ## Updates - 
-we have uploaded our second update - 5 : 15 PM (26 Sept 2022 )
+we have uploaded our second update - 5 : 15 PM (26 Sept 2022)
+we have uploaded our login page version 1 - 6 : 21 PM (26 Sept 2022)
 
  
